@@ -1,4 +1,4 @@
-# Departmental Seminar
+# Wibbly Wobbly Timey Wimey Stuff
 
 ## November 29th, 2019
 
@@ -6,6 +6,9 @@
 
 RMarkdown sources for the University of Regina, Department of Biology Seminar,
 29th November 2019.
+
+The rendered slides are viewable in `biology-seminar-november-2019.html`. They
+are also hosted at [bit.ly/bio-wibbly](http://bit.ly/bio-wibbly)
 
 ## License
 
